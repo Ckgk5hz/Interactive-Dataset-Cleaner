@@ -1,6 +1,10 @@
-# Interactive Dataset Cleaner
+<h1 align="center">Interactive Dataset Cleaner</h1>
 
-This project provides an interactive web application for cleaning and analyzing datasets. Built with Streamlit and Python, it allows users to upload datasets in various formats (CSV, Excel, JSON) and perform numerous data cleaning tasks through a user-friendly interface.
+<p align="center"><strong>This project provides an interactive web application for cleaning and analyzing datasets. Built with Streamlit and Python, it allows users to upload datasets in various formats (CSV, Excel, JSON) and perform numerous data cleaning tasks through a user-friendly interface.</strong></p>
+<div style="display: flex; justify-content: center; align-items:center; width: 100%;">
+<img src="https://github.com/user-attachments/assets/fb5f02b9-eaac-442e-a1b7-bab0739fb7ee" alt="Screenshot of Query: Do One-Hot Encoding on Gender Column" align="center">
+</div>
+
 
 ## Features
 
